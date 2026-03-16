@@ -14,12 +14,13 @@
 
 I am a data scientist working at the intersection of **economics** and **data science**. Currently, I'm an RDA II in California, specializing in NLP and distributed computing with Python and R. I’m passionate about open-source and building tools like `quick-sentiments`.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=R&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polars-CD7F32?style=flat-square&logo=polars&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD7F32?style=for-the-badge&logo=polars&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
-
 

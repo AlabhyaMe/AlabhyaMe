@@ -12,7 +12,7 @@
 
 ---
 
-I am a data scientist working at the intersection of **economics** and **data science**. Currently, I'm an RDA II in California, specializing in NLP and distributed computing with Python and R. I’m passionate about open-source and building tools like `quick-sentiments`.
+I am an experimental economist working at the intersection of **economics consulting** and **data science**. Currently, I'm a Research Data Analyst II in the State of California- Employment Development Department, specializing in surveys, causal experiments, and data analytics. I make reproducible resources, packages, and visualizations with Python and R. I’m passionate about open-source and building tools.
 
                                                            
 <p align="center">
